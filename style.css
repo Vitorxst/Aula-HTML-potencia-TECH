@@ -1,3 +1,13 @@
+/*
 body{
-    backgroud: black
+    background-color: azure;
+}
+*/
+
+/* o ponto é para selecionar uma classe.*/
+
+.content{
+    background-color:#00FF7F;
+    color: black
+    height: 100%;
 }
