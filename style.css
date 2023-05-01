@@ -1,4 +1,7 @@
-/* o ponto é para selecionar uma classe.*/
+/* o ponto é para selecionar uma classe.
+padding é para ajustar a palavra dentro da div (caixa), afastar o elemento internamente e
+margin é para ajustar a margem da div (caixa) sobre a página
+*/
 
 body{
     background-color:#3CB371;
@@ -22,7 +25,7 @@ img{
 }
 
 button{
-    padding: 20px 40px;
+    padding: 15px 45px;
     border: nome;
     cursor: pointer;
 }
