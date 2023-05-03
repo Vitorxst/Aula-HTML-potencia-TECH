@@ -4,7 +4,7 @@ margin é para ajustar a margem da div (caixa) sobre a página
 */
 
 body{
-    background-color:#3CB371;
+    background-color:#006400;
     color: black;
     height: 100%;
 }
@@ -31,12 +31,12 @@ button{
 }
 
 .primary{
-    background-color: #2F4F4F;
+    background-color: 	#008080;
     color: azure;
 }
 
 .secondary{
-    background-color: #FF6347;
+    background-color: #FF0000;
     color: azure;
 }
 
